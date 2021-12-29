@@ -10,5 +10,9 @@ An application that shows covid-statistics including Cases / deaths and Vaccinat
 
 # Main page
 ![3](https://user-images.githubusercontent.com/64398993/147633930-d200cedd-b2b1-496a-95d8-59fca34cc91c.JPG)
+
+# Cases / deaths page
 ![4](https://user-images.githubusercontent.com/64398993/147633938-62d08c43-b5f7-40be-a15c-ec30d25aef66.JPG)
+
+# Vaccinated page
 ![5](https://user-images.githubusercontent.com/64398993/147633981-741562d0-99fc-4933-aeb4-c42136c0fa27.JPG)
